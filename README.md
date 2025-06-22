@@ -9,3 +9,7 @@ This project is a handcrafted implementation of a feedforward neural network wit
 - Java-based AI engine
 
 ## Sample Output
+Input: [0.0, 0.0] → Output: ~0.01
+Input: [0.0, 1.0] → Output: ~0.98
+Input: [1.0, 0.0] → Output: ~0.98
+Input: [1.0, 1.0] → Output: ~0.01
